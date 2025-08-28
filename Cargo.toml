@@ -1,0 +1,11 @@
+[package]
+name = "cli_converter"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+crossterm = "0.29.0"
+scopeguard = "1.2.0"
+thiserror = "2.0.16"
+ico = "0.4.0"
+image = "0.25.6"
